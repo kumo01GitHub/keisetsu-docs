@@ -108,6 +108,5 @@ https://raw.githubusercontent.com/{owner}/{repo}/{ref}/databases/{deck-file}.kdb
 - mobile（Expo）アプリを公開し、配布ページとインストール導線を整備する
 - admin（Vercel）を公開し、外部ユーザーがすぐに deck を編集できる状態にする
 - README を多言語対応し、日本語・英語など複数言語で閲覧できるようにする
-- 単体テスト・E2Eテストの対象範囲を主要機能まで拡大し、正常系と異常系のテストを追加して CI で毎回実行する
 - README に CI 状態・リリース・ライセンスなどのバッジを追加して、状態を可視化する
 - PR テンプレートと Issue テンプレートを追加し、変更提案と不具合報告の粒度を揃える
