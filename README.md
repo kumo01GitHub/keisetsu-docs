@@ -99,10 +99,17 @@ manifest の path を使って .kdb を取得
 
 ## 利用者向けガイド
 
-### keisetsu モバイルアプリのインストール・利用方法
+### keisetsu モバイルアプリの使い方
 
-[アプリの使い方](https://github.com/kumo01GitHub/keisetsu-mobile#アプリの使い方) を参照してください。
+- [Expo Go (iOS/Android)](https://expo.dev/client) をインストール
+- Expo Go で [URL](https://u.expo.dev/e7aad213-54f2-490d-8cc3-7e06ea89c3d9) を開くとすぐ使えます
+- deck 一覧の取得・ダウンロード・学習・テストが可能
+- 詳細は [keisetsu-mobile](https://github.com/kumo01GitHub/keisetsu-mobile#アプリの使い方) を参照
 
+### keisetsu 管理画面の使い方
+
+- [keisetsu-admin 公開ページ](https://keisetsu-admin.vercel.app) から、Webブラウザ上で deck の新規作成・編集・CSV/kdb 取り込み・エクスポートが可能です。
+- 詳細は [keisetsu-admin](https://github.com/kumo01GitHub/keisetsu-admin#利用方法) を参照してください。
 
 ## ドキュメント運用メモ
 
@@ -114,7 +121,6 @@ manifest の path を使って .kdb を取得
 
 ## 今後のTODO
 
-- admin（Vercel）を公開し、外部ユーザーがすぐに deck を編集できる状態にする
 - 開発者向け、単語帳製作者向け、利用者向けに分けたドキュメントを整備する
 - 開発者向けドキュメントを英語にする
 - README を多言語対応し、日本語・英語など複数言語で閲覧できるようにする
