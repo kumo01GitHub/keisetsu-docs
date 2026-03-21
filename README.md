@@ -103,12 +103,14 @@ manifest の path を使って .kdb を取得
 
 [アプリの使い方](https://github.com/kumo01GitHub/keisetsu-mobile#アプリの使い方) を参照してください。
 
+
 ## ドキュメント運用メモ
 
 - 初回リリースまでは、設計見直しに伴う破壊的変更が繰り返し入る前提で運用する
 - 初回リリース前の仕様・データ形式・UI は安定版ではないため、互換性を保証しない
 - スキーマ変更時は mobile/admin/database の README を同時更新する
 - 初回リリース後は、互換性に影響する変更について配布タグと更新履歴を明記する
+- **注意: Expo Go での配布は本来推奨されていません。** Expo Go は学習・検証用途向けであり、[公式FAQ](https://docs.expo.dev/faq/#what-can-i-do-or-cannot-do-with-expo-go) でも本番配布には development build の利用が推奨されています。
 
 ## 今後のTODO
 
