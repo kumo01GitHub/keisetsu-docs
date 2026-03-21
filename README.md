@@ -97,6 +97,12 @@ manifest の path を使って .kdb を取得
 例: https://raw.githubusercontent.com/{owner}/{repo}/{ref}/databases/starter-basic.kdb
 ```
 
+## 利用者向けガイド
+
+### keisetsu モバイルアプリのインストール・利用方法
+
+[アプリの使い方](https://github.com/kumo01GitHub/keisetsu-mobile#アプリの使い方) を参照してください。
+
 ## ドキュメント運用メモ
 
 - 初回リリースまでは、設計見直しに伴う破壊的変更が繰り返し入る前提で運用する
@@ -106,7 +112,6 @@ manifest の path を使って .kdb を取得
 
 ## 今後のTODO
 
-- mobile（Expo）アプリを公開し、配布ページとインストール導線を整備する
 - admin（Vercel）を公開し、外部ユーザーがすぐに deck を編集できる状態にする
 - 開発者向け、単語帳製作者向け、利用者向けに分けたドキュメントを整備する
 - 開発者向けドキュメントを英語にする
