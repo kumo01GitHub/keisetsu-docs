@@ -1,6 +1,6 @@
 # keisetsu Docs
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/kumo01GitHub/keisetsu/pulls)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/kumo01GitHub/keisetsu-docs/pulls)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 
 keisetsu 全体の設計意図と運用方針を横断して整理するドキュメントハブです。
