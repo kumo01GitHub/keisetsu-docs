@@ -1,5 +1,8 @@
 # keisetsu Docs
 
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/kumo01GitHub/keisetsu/pulls)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+
 keisetsu 全体の設計意図と運用方針を横断して整理するドキュメントハブです。
 
 この `keisetsu-docs` は、各実装リポジトリ（admin / database / mobile）をまたいだ
@@ -124,7 +127,4 @@ manifest の path を使って .kdb を取得
 - 開発者向け、単語帳製作者向け、利用者向けに分けたドキュメントを整備する
 - 開発者向けドキュメントを英語にする
 - README を多言語対応し、日本語・英語など複数言語で閲覧できるようにする
-- README に CI 状態・リリース・ライセンスなどのバッジを追加して、状態を可視化する
 - PR テンプレートと Issue テンプレートを追加し、変更提案と不具合報告の粒度を揃える
-- Codacy対応を追加し、コード品質チェックを自動化する
-- カバレッジ対応を追加し、テストの網羅率を可視化する
