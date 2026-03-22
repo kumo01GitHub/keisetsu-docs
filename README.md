@@ -112,7 +112,7 @@ deck manifest の path を使って .kdb を取得
 1. [keisetsu-publisher 公開ページ](https://keisetsu-publisher.vercel.app) にアクセス
 2. 新規 deck を作成、または CSV / 既存 kdb を取り込む
 3. カードや deck 情報（ID、タイトル、言語など）を編集
-4. 「kdbのみ」「deck jsonのみ」「同梱ZIP」いずれかをダウンロード
+4. 「kdbのみ」「deck manifestのみ」「同梱ZIP」いずれかをダウンロード
 5. 生成物を keisetsu-database に配置して、[追加・編集申請](https://github.com/kumo01GitHub/keisetsu-database/pulls)
     - `.kdb` -> `keisetsu-database/databases/`
     - `{deck-id}.json` -> `keisetsu-database/catalog/decks/`
