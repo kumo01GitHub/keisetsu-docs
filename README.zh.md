@@ -1,8 +1,5 @@
 # keisetsu 文档
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/kumo01GitHub/keisetsu-docs/pulls)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
-
 这是 keisetsu 整体设计意图和运营方针的文档中心。
 
 `keisetsu-docs` 是一个集中管理所有 keisetsu 实现（publisher / database / mobile）跨仓库规范、运营规则和更新流程的地方。

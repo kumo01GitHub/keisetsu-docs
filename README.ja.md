@@ -1,8 +1,5 @@
 # keisetsu ドキュメント
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/kumo01GitHub/keisetsu-docs/pulls)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
-
 keisetsu 全体の設計意図と運用方針を横断して整理するドキュメントハブです。
 
 この `keisetsu-docs` は、各実装リポジトリ（publisher / database / mobile）をまたいだ仕様の前提、運用ルール、更新手順を一元管理するための場所です。

@@ -1,8 +1,5 @@
 # keisetsu Documentación
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/kumo01GitHub/keisetsu-docs/pulls)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
-
 Este es el centro de documentación para la intención de diseño y la política operativa general de keisetsu.
 
 `keisetsu-docs` es un lugar central para gestionar especificaciones, reglas operativas y procedimientos de actualización entre todos los repositorios de keisetsu (publisher / database / mobile).
