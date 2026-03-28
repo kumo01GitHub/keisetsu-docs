@@ -100,11 +100,11 @@ deck manifest の path を使って .kdb を取得
 
 **公開URL**
 
-[https://u.expo.dev/e7aad213-54f2-490d-8cc3-7e06ea89c3d9](https://u.expo.dev/e7aad213-54f2-490d-8cc3-7e06ea89c3d9)
+[Deep link URL](exp+://expo-development-client/?url=https%3A%2F%2Fu.expo.dev%2Fe7aad213-54f2-490d-8cc3-7e06ea89c3d9%2Fgroup%2F38306e83-64bf-45ae-a094-57a87c096f6e)
 
 **QRコード**
 
-![Expo QR](assets/keisetsu-expo-qr.png)
+![Expo QR](assets/eas-update.svg)
 
 これで keisetsu アプリをすぐに利用開始できます。
 
