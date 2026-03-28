@@ -96,13 +96,7 @@ deck manifest の path を使って .kdb を取得
 1. スマートフォンでExpo Go アプリをインストールしてください。
     - [Expo Go (iOS)](https://apps.apple.com/app/expo-go/id982107779)
     - [Expo Go (Android)](https://play.google.com/store/apps/details?id=host.exp.exponent)
-2. Expo Go アプリを開き、下記のいずれかの方法で keisetsu アプリを起動してください。
-
-**公開URL**
-
-[Deep link URL](exp+://expo-development-client/?url=https%3A%2F%2Fu.expo.dev%2Fe7aad213-54f2-490d-8cc3-7e06ea89c3d9%2Fgroup%2F38306e83-64bf-45ae-a094-57a87c096f6e)
-
-**QRコード**
+2. QRコードを読み取り、keisetsu アプリを起動してください。
 
 ![Expo QR](assets/eas-update.svg)
 
